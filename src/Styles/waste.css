@@ -1,0 +1,21 @@
+.waste{
+    height: 100vh;
+    background-image: url("../Assests/factory.jpg");
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: center;
+    -o-background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+    z-index: -1;
+}
+
+.hor{
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    padding: 10% 10%
+}
+

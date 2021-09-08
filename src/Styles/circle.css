@@ -1,0 +1,48 @@
+.circle-outer{
+    height: 50vh;
+    width: 50vh;
+    box-sizing: border-box;
+    background-color: gray;
+    align-items: center;
+    justify-content: center;
+    padding: 15%;
+    border-radius: 180px;
+    opacity: 0.3;
+    text-align: center
+}
+
+.circle-inner{
+    height: 35vh;
+    width: 35vh;
+    box-sizing: border-box;
+    background-color: gray;
+    align-items: center;
+    justify-content: center;
+    padding: 16%;
+    border-radius: 125px;
+    opacity: 1;
+    text-align: center;
+}
+
+.circle-inner h1{
+    font-size: 60px;
+    color: white;
+    margin-top: 10%
+}
+
+.color{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10%
+}
+
+.box{
+    height: 10vh;
+    width: 10vh;
+    box-sizing: border-box;
+}
+
+.name{
+    font-size: 16px;
+    color: white
+}
